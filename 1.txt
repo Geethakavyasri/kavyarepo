@@ -1,10 +1,10 @@
-<<<<<<< Updated upstream
+
 story 121
 class register{
    string username;
 }
-=======
+
 story 1
 
 my react porject
->>>>>>> Stashed changes
+
