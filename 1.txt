@@ -6,5 +6,9 @@ class register{
 
 story 1
 
-my react porject
+my react project
+
+
+story 3
+
 
