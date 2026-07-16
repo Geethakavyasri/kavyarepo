@@ -2,3 +2,12 @@ story 121
 class string{
   string empid
 }
+
+
+
+
+
+
+story 123:
+mmmmmmmmmmmmmmmmmmmmm
+nnnnnnnnnnnnnnnnnnnnnnnnn
