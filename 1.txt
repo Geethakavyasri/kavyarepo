@@ -1,14 +1,9 @@
-
 story 121
+
 class register{
    string username;
 }
 
-story 1
 
-my react project
-
-
-story 3
 
 
