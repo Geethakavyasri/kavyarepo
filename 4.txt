@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 story 
+=======
+story 121
+>>>>>>> a0623e7a81c9c77b49d716c65457b6738f3c7dd7
 class string{
   string empid
 }
